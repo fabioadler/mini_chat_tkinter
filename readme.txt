@@ -1,0 +1,1 @@
+Esse e um projeto de aprendizado e pratica de python com tkinter
